@@ -1,2 +1,2 @@
 # seoppr
-Elements sections optimization in industrial steel structures structural calculus
+Optimization in steel profile sizes in structural calculus
